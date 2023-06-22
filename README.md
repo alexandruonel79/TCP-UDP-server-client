@@ -1,6 +1,8 @@
 # TCP-UDP-server-client
-  RULARE SERVER: ./server PORT_DORIT
-  RULARE CLIENT: ./subscriber ID_CLIENT IP_SERVER PORT_DORIT
+
+    RULARE SERVER: ./server PORT_DORIT
+  
+    RULARE CLIENT: ./subscriber ID_CLIENT IP_SERVER PORT_DORIT
   
 Am reusit sa implementez un server care accepta conexiuni TCP si UDP. Prin partea de UDP serverul
 primeste actualizari despre un topic de la un client UDP furnizat de checkerul temei. Prin partea
